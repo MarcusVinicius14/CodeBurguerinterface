@@ -1,0 +1,6 @@
+export * from './Home'
+export * from './Products'
+export * from './Login'
+export * from './Register'
+export * from './Cart'
+export * from './Admin'
